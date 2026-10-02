@@ -1,4 +1,4 @@
-# PortfolioPilot: Milestone 26 — Context and Usage Budgets
+# Context and Usage Budgets
 
 PortfolioPilot is a teaching project for a stock portfolio manager with news and portfolio-aware AI chat. This learning activity adds limits and conversation context management to the existing application. The application uses the **Claude Agent SDK** (the library that runs the assistant), even when another coding agent implements the lesson.
 
